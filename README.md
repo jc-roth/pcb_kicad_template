@@ -3,6 +3,9 @@ KiCAD template for Hammond 1475/Eurocard format
 
 ![Board Image](meta/board_img.jpg)
 
+## Installing
+Download the repo and drag it into your KiCAD template folder (this is set by the `KICAD_USER_TEMPLATE_DIR` environment variable). When selecting `File > New Project from Template` this template should appear as an option.
+
 ## Features
 
 - 100mm eurocard format, fits inside [Hammond 1457 series enclosures](https://www.hammfg.com/electronics/small-case/extruded/1457-emi).Alternatively place inside a [Schroff 24563131 Eurocard subrack](https://www.digikey.com/en/products/detail/schroff/24563131/4209922) or similar.
